@@ -5,10 +5,6 @@ function App() {
   return (
     <>
       <DigitalClock />
-      <DigitalClock />
-      <DigitalClock />
-      <DigitalClock />
-
     </>
   )
 }
