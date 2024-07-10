@@ -2,6 +2,8 @@
 
 A simple digital clock application built with React. This application displays the current time, updating every second, and formats the time in a 12-hour format with AM/PM indicators.
 
+![Clock App Screenshot](./.github/screen.png)
+
 ## Features
 
 - Displays the current time.
